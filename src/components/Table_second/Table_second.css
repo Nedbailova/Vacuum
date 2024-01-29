@@ -1,0 +1,52 @@
+table {
+    width: 1728px;
+    height: 648px;
+    margin-top:40px;
+    margin-left:41px;
+    background-color: #262629;
+    color: white;
+    height:100px;
+}
+
+
+
+caption {
+    font-family: 'Spartan';
+    font-size: 44px;
+    font-weight: 400;
+    line-height: 49px;
+    letter-spacing: 0em;
+    text-align: left;
+    background-color: #333337;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+caption svg {
+    margin-left: 1490px;
+}
+
+thead {
+    font-family: 'Spartan';
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 40px;
+    text-align: left;    
+}
+
+td, th {  
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+
+
+tbody {
+    font-family: 'Spartan';
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 40px;
+    letter-spacing: 0em;
+    text-align: left;
+}

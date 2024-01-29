@@ -1,0 +1,15 @@
+.main {
+    background-color: #1E1E20;
+    height: 1080px;
+    width: 1920px;
+    position: fixed;
+    top: 82px;
+    left: 77px;
+    display: block;
+    overflow: scroll;
+    
+}
+
+table:last-child {
+    margin-bottom: 200px;
+}

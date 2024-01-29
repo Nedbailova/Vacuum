@@ -1,0 +1,27 @@
+#pages{
+    top: 82px;
+    width: 77px;
+    height: 100vh;
+    background-color: #28282B;
+    position: fixed;
+    z-index: 1;
+}
+  
+#pages a{
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    color: white;
+}
+
+#pages a:hover {
+    background-color: #333337;
+    border-color: #EBEBEB;
+}
+  
+#pages a:focus {
+    background-color: #333337;
+    border-color: #EBEBEB;
+}
+
+ 
