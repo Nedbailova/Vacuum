@@ -14,6 +14,7 @@ function App() {
       <Sidebar/>
       <Main>
       <Routes>
+        {/* нужно сделать эту страницу индексной */}
         <Route path = "/page1" element = {<Page1 />}/>
         <Route path = "/page2" element = {<Page2 />}/>
       </Routes>
