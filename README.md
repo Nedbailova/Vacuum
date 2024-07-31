@@ -1,4 +1,4 @@
-Под экран 1920x1080 
+Сайт разработан под экран размером 1920x1080. 
 ## Available Scripts
 
 In the project directory, you can run:
